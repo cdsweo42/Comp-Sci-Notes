@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "03cd14726a1a7fbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "681be784a775c079",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Basic Docker Commands.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9a68694b881e24eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0467463f7bd35cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "133c45f555f86b9f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bc5b9103001fd20f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "960824fcbde1b2da",
+    "type": "split",
+    "children": [
+      {
+        "id": "0164d7fb0a49114f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1dfe611140223367",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Basic Docker Commands.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "681be784a775c079",
+  "lastOpenFiles": [
+    "Basic Docker Commands.md",
+    "Run Commands.md",
+    "Intro.md",
+    "Environment Variables.md",
+    "containers-vs-virtual-machines.jpg",
+    "Images vs. Containers.md"
+  ]
+}

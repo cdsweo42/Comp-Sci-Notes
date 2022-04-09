@@ -1,0 +1,12 @@
+## Basic Docker Commands
+- `docker run (image name)` runs a container from an image in the foreground, also called attached mode. Press `CTRL-C` to exit.
+- `docker run -d (container/image)` runs a container in the background, called detached mode
+- `docker attach (container name/id)` to attach back to a detached container
+- `docker ps` lists all running containers and information about them
+- `docker ps -a` lists all running containers and stopped containers and information about them
+- `docker stop (container name/ID)`: stops a running container
+- `docker rm (container name/ID)` removes a stopped container permanantly
+- `docker images` lists all images
+- `docker rmi (image name)` removes an image. no containers can be running off the image before deletion
+- `docker pull (image name)` download an image for later use
+- `docker exec (container name/ID) (command)` executes a command on a running container
